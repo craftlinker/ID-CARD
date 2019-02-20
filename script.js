@@ -35,10 +35,3 @@ for (var i = 0; i < ages.length; i++) {
       }
 
     }
-
-    // } else if (numberArray >= 100) {
-    //     (document.getElementById("postphoneNumber").innerHTML = "phoneNumger:" + age); 
-    //     }
-
-
-    
