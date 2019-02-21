@@ -24,7 +24,7 @@ function idCard() {
     postState.innerText = state;
     postZip.innerText = zip;
    
-var ages = [100,9000];
+var ages = [];
 ages.push(age);
 
 
